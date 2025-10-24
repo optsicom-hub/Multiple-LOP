@@ -1,0 +1,6 @@
+LOLIB Instance format:
+
+First line has only one field:
+n: Number of elements to be ranked.
+ 
+The following lines contain de n x n dominance matrix of the Instance. 
